@@ -3,7 +3,7 @@ import { Route, Routes } from "react-router-dom";
  
 import AllMeetupsPage from "./pages/AllMeetups";
 import FavoritesPage from "./pages/Favorites";
-import NewMeetupsPage from "./pages/NewMeetups";
+import NewMeetupsPage from "./pages/NewMeetup";
 import Layout from './components/layout/Layout';
 const App = () => {
   return (
